@@ -16,3 +16,6 @@ galaxy_info:
     - security
     - cis
     - hardening
+
+collections:
+  - ansible.posix
