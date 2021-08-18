@@ -17,4 +17,5 @@ galaxy_info:
     - cis
     - hardening
 
-dependencies: []
+dependencies:
+  - ansible.posix
