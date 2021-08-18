@@ -16,6 +16,3 @@ galaxy_info:
     - security
     - cis
     - hardening
-
-dependencies:
-  - ansible.posix
